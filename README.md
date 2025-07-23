@@ -169,7 +169,7 @@ streamlit run app.py
 
 ## 📽️ Demo Video
 
-> 🎥 [Link to Google Drive Demo Video]([https://drive.google.com/file/d/1RGHWxX54pNa2Plpl23BffU96Um6HzRSS/view?usp=sharing])
+> 🎥 [Link to Google Drive Demo Video](https://drive.google.com/file/d/1RGHWxX54pNa2Plpl23BffU96Um6HzRSS/view?usp=sharing)
 
 ---
 
