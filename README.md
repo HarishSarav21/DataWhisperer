@@ -92,8 +92,8 @@ graph TD;
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/data-whisperer.git
-cd data-whisperer
+git clone https://github.com/HarishSarav21/DataWhisperer.git
+cd DataWhisperer
 ```
 
 ### 2. Load Data into Database
