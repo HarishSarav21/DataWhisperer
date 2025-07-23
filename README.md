@@ -1,7 +1,6 @@
 
 # 🔍 Data Whisperer: GenAI-Powered E-commerce SQL Assistant
-
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+ 
 ![Status](https://img.shields.io/badge/LLM-Mistral-FF4B4B?logo=openai&logoColor=white)
 ![Built with Streamlit](https://img.shields.io/badge/built%20with-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 
