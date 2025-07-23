@@ -75,15 +75,16 @@ graph TD;
 
 > 📍 Sample question: "What is my total sales?"
 
-![Screenshot](https://via.placeholder.com/800x400.png?text=Insert+Screenshot+Here)
+<img width="1248" height="363" alt="image" src="https://github.com/user-attachments/assets/91142398-7425-4854-bc87-251c153e0978" />
+
 
 > 📍 Sidebar schema viewer
 
-![Sidebar](https://via.placeholder.com/300x600.png?text=Schema+Explorer)
+<img width="380" height="802" alt="image" src="https://github.com/user-attachments/assets/9e6b9d2a-fbd6-46a1-bd33-f8b06527b20f" />
 
-> 📍 Pie chart + CSV export
+> 📍 Bar chart
+<img width="727" height="760" alt="image" src="https://github.com/user-attachments/assets/f6d9cc2b-e08d-4e43-bbe4-2fd522a4454f" />
 
-![Chart](https://via.placeholder.com/800x400.png?text=Visualizations+and+Downloads)
 
 ---
 
