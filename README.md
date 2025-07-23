@@ -147,7 +147,6 @@ streamlit run app.py
 | What is my total sales?                | Summing `total_sales` |
 | Calculate the RoAS                     | ad_sales / ad_spend |
 | Which product had the highest CPC?     | ad_spend / clicks |
-| Items with no eligibility message?     | `WHERE message IS NULL` |
 | Show conversion rate per item          | units_sold / clicks |
 
 ---
