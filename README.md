@@ -36,7 +36,7 @@ The project uses 3 datasets representing e-commerce metrics:
 ```mermaid
 graph TD;
     A[User Question] --> B[Streamlit UI]
-    B --> C[LLM Prompt (Mistral via Ollama)]
+    B --> C[LLM Prompt: Mistral via Ollama]
     C --> D[SQL Query Generation]
     D --> E[SQLite Query Execution]
     E --> F[Answer + Chart + Download CSV]
